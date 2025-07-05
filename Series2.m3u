@@ -4,21 +4,7 @@
 	"image": "https://s2.gaming-cdn.com/images/avatars/9118453-1606651669.jpg",
 	"info": "Enlaces de internet",
 	"url": "https://raw.githubusercontent.com/Maikycos/SeriesMaikycos/refs/heads/main/Series2.m3u",
-	"groups": [{
-            "name": "Enlaces de Internet (Sin lucrarse) Novedades",
-            "image": "https://monetizaweb.com/wp-content/uploads/2018/09/enlace.jpg",
-            "info": "",
-            "stations": [ { 
-                    "name": "Para mas series MaikycosSeries1",
-                    "image": "https://s2.gaming-cdn.com/images/avatars/9118453-1606651669.jpg",
-                    "url": "https://pastebin.com/iWFnMPCX",
-                    "userAgent":"true"
-},{               
-                   "name": "https://pastebin.com/iWFnMPCX",
-            "image": "https://s2.gaming-cdn.com/images/avatars/9118453-1606651669.jpg",
-                    "url": "",
-                    "userAgent":"true"
-}]
+	
 },{
 "name": "SkyShowtime",
             "image": "https://fotografias.larazon.es/clipping/cmsimages02/2023/02/14/C66DF4A2-0126-4CDC-881A-C4A269F6AD82/logotipo-plataforma-streaming-skyshowtime_98.jpg?crop=889,500,x277,y0&width=1900&height=1069&optimize=low&format=webply",
